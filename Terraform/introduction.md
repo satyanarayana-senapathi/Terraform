@@ -1,8 +1,7 @@
 # Terraform Overview
 
 [Terraform](https://www.terraform.io/) is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It enables users to define and provision infrastructure using a declarative configuration language, known as HashiCorp Configuration Language (HCL), or optionally JSON.
-
-![Terraform Overview](https://miro.medium.com/v2/resize:fit:1400/0*HDJLqKTWhoR03WmD.png)
+![Terraform Overview](https://i0.wp.com/ipwithease.com/wp-content/uploads/2021/05/terraform-overview.jpg)
 
 ## Key Concepts
 
